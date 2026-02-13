@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=Y1 Old Footprint=ABRACON ABLS New Footprint=XRCGB32M000F2P01R0
+Change Component Comment : Designator=Y1 Old Comment=32MHz New Comment=XRCGB32M000F2P01R0
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "ABRACON ABLS"; UniqueID = "\PAINYOSY" ("\PAINYOSY")
