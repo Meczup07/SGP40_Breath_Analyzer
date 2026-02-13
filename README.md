@@ -10,9 +10,9 @@ This project combines advanced **Sensirion SGP40 VOC** sensor technology with th
 
 ## 📸 Project Images
 
-| PCB Top View | PCB Bottom View | 3D Render |
-| :---: | :---: | :---: |
-| *[Add Top PCB Image Here]* | *[Add Bottom PCB Image Here]* | *[Add 3D Render Here]* |
+<img width="798" height="713" alt="1" src="https://github.com/user-attachments/assets/c0f1d064-9244-4460-ad38-2b4a213009cc" />
+
+<img width="760" height="694" alt="2" src="https://github.com/user-attachments/assets/6e43f0ba-f4aa-441f-baec-7cfdd439d7fb" />
 
 ---
 
