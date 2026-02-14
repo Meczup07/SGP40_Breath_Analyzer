@@ -45,6 +45,14 @@ The project is built on the following core components:
 | **Connector** | `USB-C 16-Pin` | Power input & Charging. |
 
 ---
+## 🔌 Coding Fundamentals
+* IDE used - SEGGER Embedded Studio
+* **Download Nordic nRF5 SDK**
+Go to Nordic's website:
+https://www.nordicsemi.com/Products/Development-software/nrf5-sdk/download
+Download nRF5 SDK v17.1.0 (the most stable version)
+Download the ZIP file and extract it to a folder.
+Example: C:\nRF5_SDK_17.1.0
 
 ## 🔌 Pinout Map
 
