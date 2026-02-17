@@ -10,9 +10,9 @@ This project combines advanced **Sensirion SGP40 VOC** sensor technology with th
 
 ## 📸 Project Images
 
-| PCB Top View | PCB Bottom View | 3D Render |
-| :---: | :---: | :---: |
-| *[Add Top PCB Image Here]* | *[Add Bottom PCB Image Here]* | *[Add 3D Render Here]* |
+<img width="798" height="713" alt="1" src="https://github.com/user-attachments/assets/c0f1d064-9244-4460-ad38-2b4a213009cc" />
+
+<img width="760" height="694" alt="2" src="https://github.com/user-attachments/assets/6e43f0ba-f4aa-441f-baec-7cfdd439d7fb" />
 
 ---
 
@@ -45,6 +45,14 @@ The project is built on the following core components:
 | **Connector** | `USB-C 16-Pin` | Power input & Charging. |
 
 ---
+## 🔌 Coding Fundamentals
+* IDE used - SEGGER Embedded Studio
+* **Download Nordic nRF5 SDK**
+Go to Nordic's website:
+https://www.nordicsemi.com/Products/Development-software/nrf5-sdk/download
+Download nRF5 SDK v17.1.0 (the most stable version)
+Download the ZIP file and extract it to a folder.
+Example: C:\nRF5_SDK_17.1.0
 
 ## 🔌 Pinout Map
 
